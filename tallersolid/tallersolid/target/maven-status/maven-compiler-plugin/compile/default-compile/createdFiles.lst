@@ -1,0 +1,12 @@
+co\unicauca\solid\domain\access\IVehicleRepository.class
+co\unicauca\solid\domain\access\VehicleRepository.class
+co\unicauca\solid\domain\main\ClientMain.class
+co\unicauca\solid\domain\service\Service.class
+co\unicauca\solid\domain\access\Motorcycle_Cost.class
+co\unicauca\solid\domain\access\Car_Cost.class
+co\unicauca\solid\domain\Vehicle.class
+co\unicauca\solid\domain\access\ITimeParking.class
+co\unicauca\solid\domain\access\Truck_Cost.class
+co\unicauca\solid\domain\access\Parking.class
+co\unicauca\solid\domain\access\InstanceVehicle.class
+co\unicauca\solid\domain\VehicleEnum.class
